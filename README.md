@@ -7,7 +7,7 @@ Frontend Developer
 
 Welcome to my GitHub profile! I'm novice frontend developer. I'm passionate about building dynamic and interactive web applications and constantly striving to improve my skills.
 
-* 🖥️  See my portfolio at [https://erhvict.ru/](http://erhvict.ru/)
+* 🖥️  See my portfolio at [https://erhvict.ru/](https://erhvict.ru/)
 * ✉️  You can contact me at [apd@erhvict.ru](mailto:apd@erhvict.ru)
 
 ### Skills
