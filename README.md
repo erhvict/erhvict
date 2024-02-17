@@ -3,8 +3,8 @@ My name is Andrey
 ==============================================================================================================================
 
 I'm Frontend Developer<br/>
-<font size="1">But sometimes the backend is also a developer... Very rarely...</font>
 ------------------
+But sometimes the backend is also a developer... Very rarely...
 
 Welcome to my GitHub profile! I'm novice frontend developer. I'm passionate about building dynamic and interactive web applications and constantly striving to improve my skills.
 
