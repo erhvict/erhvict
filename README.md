@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm novice frontend developer. I'm passionate abou
 * ✉️  You can contact me at [apd@erhvict.ru](mailto:apd@erhvict.ru)
 
 <a href="https://www.github.com/erhvict" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/erhvict?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/erhvict" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/erhvict?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/apd_dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/apd_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
